@@ -5,11 +5,6 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <!-- I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content. -->
 <br>
-<br>
-<div align="center">
-
-[Email Me](mailto:bardak.compaq2306@gmail.com)
-</div>
 </p>    
 <br>
 <!-- Languages and Tools -->
@@ -64,3 +59,13 @@
   </a>
 </div>
 <br>
+<hr></hr>
+<!-- Begin Footer -->
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<div class="footer" align="center" style="margin:15px;">
+    <a href="mailto:bardak.compaq2306@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
+<!-- End Footer -->
